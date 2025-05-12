@@ -1,0 +1,26 @@
+{
+  "rankList": {
+    "playerScores": [
+      {
+        "playerName": "Alice",
+        "time": 40
+      },
+      {
+        "playerName": "aa",
+        "time": 52
+      },
+      {
+        "playerName": "shinyi",
+        "time": 52
+      },
+      {
+        "playerName": "goodboy",
+        "time": 52
+      },
+      {
+        "playerName": "haha",
+        "time": 55
+      }
+    ]
+  }
+}
